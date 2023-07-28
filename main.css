@@ -127,7 +127,7 @@ opacity: 0;
 .back{
 height: auto;
 width: 100%;
-background-image:url("../images/res_003.png");
+background-image:url("images/res_003.png");
 }
 .text-uppercase{
 	color: #fff;
@@ -519,7 +519,7 @@ content: "";
 	background-color: #ffffff;
 	background-color: rgba( 255, 255, 255, 0.45 );
 	
-	background-image: url("../images/res_001.png");
+	background-image: url("images/res_001.png");
 
 
 
@@ -532,7 +532,7 @@ content: "";
 	margin-top: 50px;
 	background-color: #ffffff;
 	background-color: rgba( 255, 255, 255, 0.45 );
-	background-image: url("../images/res_002.png");
+	background-image: url("images/res_002.png");
 
 }
 
@@ -611,7 +611,7 @@ content: "";
 	height: 300px;
 	margin-left: auto;
 	margin-right: auto;
-	background-image: url("../images/taikaijouhou.png")
+	background-image: url("images/taikaijouhou.png")
 
 }
 .Tournament_information03{
@@ -619,7 +619,7 @@ content: "";
 	height: 300px;
 	margin-left: auto;
 	margin-right: auto;
-	background-image:url("../images/taikaikekka.png");
+	background-image:url("images/taikaikekka.png");
 
 }Tournament_name02
 tounament_box01/*----------------------------------------情報 (終)　css----------------------------------------*/
@@ -970,19 +970,19 @@ p{
 	width: 100%;
 	height: 300px;
 	margin-top: 50px;
-	background-image: url("../images/014.png");
+	background-image: url("images/014.png");
 }
 .basic_information02{
 	width: 100%;
 	height: 300px;
 	margin-top: 50px;
-	background-image: url("../images/015.png");
+	background-image: url("images/015.png");
 
 }	
 .back{
 height: auto;
 	width: 100%;
-background-image: url("../images/fotter_image.png");
+background-image: url("images/fotter_image.png");
 }
 	.intro02{
 	margin-bottom: 30px;
@@ -1063,7 +1063,7 @@ content: "";
 	height: 400px;
 	margin-left: auto;
 	margin-right: auto;
-	background-image: url("../images/taikaijouhou.png")
+	background-image: url("images/taikaijouhou.png")
 
 }
 .Tournament_information03{
@@ -1071,7 +1071,7 @@ content: "";
 	height: 400px;
 	margin-left: auto;
 	margin-right: auto;
-	background-image:url("../images/taikaikekka.png");
+	background-image:url("images/taikaikekka.png");
 
 }
 	.Tournament_results04{
@@ -1121,19 +1121,19 @@ content: "";
 	width: 100%;
 	height: 300px;
 	margin-top: 50px;
-	background-image: url("../images/014.png");
+	background-image: url("images/014.png");
 }
 .basic_information02{
 	width: 100%;
 	height: 300px;
 	margin-top: 50px;
-	background-image: url("../images/015.png");
+	background-image: url("images/015.png");
 
 }	
 .back{
 height: auto;
 width: 100%;
-background-image: url("../images/fotter_image.png");
+background-image: url("images/fotter_image.png");
 }
 	
 	.btn01{    
@@ -1156,19 +1156,19 @@ background-image: url("../images/fotter_image.png");
 	width: 100%;
 	height: 400px;
 	margin-top: 50px;
-	background-image: url("../images/08-2.png");
+	background-image: url("images/08-2.png");
 }
 	.basic_information02{
 	width: 100%;
 	height: 400px;
 	margin-top: 50px;
-	background-image: url("../images/08-3.png");
+	background-image: url("images/08-3.png");
 
 }	
 	.back{
 height: 220px;
 width: 100%;
-background-image: url("../images/res_004.png");
+background-image: url("images/res_004.png");
 	}
 }
 	@media (min-width: 1600px) { 
@@ -1177,14 +1177,14 @@ background-image: url("../images/res_004.png");
 	width: 100%;
 	height: 400px;
 	margin-top: 50px;
-	background-image: url("../images/09-2.png");
+	background-image: url("images/09-2.png");
 	
 	}	
 			.basic_information02{
 	width: 100%;
 	height: 400px;
 	margin-top: 50px;
-	background-image: url("../images/09-3.png");
+	background-image: url("images/09-3.png");
 
 }	
 }
